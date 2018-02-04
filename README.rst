@@ -29,7 +29,6 @@ Procedure
 *********
 Set the environment variables::
 
-    BOOST_PATH             // directory of boost headers
     PYTHON_INCLUDE_PATH    // directory of python headers
 
 And run cmake::
